@@ -1,0 +1,18 @@
+# SimpleJoinMessage | Developed by Septy Studios
+# Supports MiniMessage (Hex, Gradients) and Legacy Color Codes (&)
+
+settings:
+  use-minimessage: true
+
+join:
+  enabled: true
+  # Placeholders: <player>, %online%, %max%
+  default-message: "<gray>[<green>+</green>] <white><player> <gray>joined the server."
+
+quit:
+  enabled: true
+  default-message: "<gray>[<red>-</red>] <white><player> <gray>left the server."
+
+placeholders:
+  online: "%online%"
+  max: "%max%"
