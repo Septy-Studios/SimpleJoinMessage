@@ -1,6 +1,6 @@
 # SimpleJoinMessage 
 
-SimpleJoinMessage is a professional-grade, lightweight solution for managing player connection messages on modern Minecraft servers. Developed by **Septy Studios**, it focuses on high performance, clean configuration, and modern formatting standards.
+SimpleJoinMessage is a lightweight solution for managing player connection messages on modern Minecraft servers. Developed by **Septy Studios**, it focuses on high performance, clean configuration, and modern formatting standards.
 
 ## 🚀 Features
 
