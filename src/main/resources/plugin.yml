@@ -3,4 +3,4 @@ version: '1.0.0'
 main: org.septystudios.simplejoinmessage.SimpleJoinMessage
 api-version: '1.20'
 author: SeptyStudios
-description: Professional lightweight join and quit message manager.
+description: Lightweight join and quit message manager.
