@@ -21,8 +21,6 @@ settings:
 join:
   enabled: true
   default-message: "<gray>[<green>+</green>] <white><player> <gray>joined the server."
-  worlds:
-    world_nether: "<red>🔥 <white><player> <gray>entered the depths of the nether."
 
 quit:
   enabled: true
